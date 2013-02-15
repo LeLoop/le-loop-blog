@@ -28,3 +28,6 @@ Merci de [me contacter](mailto:goffi@goffi.DOT.com) si vous voulez venir,
 afin d'avoir une idée du nombre de participants.
 
 Et merci au Loop pour m'aider à organiser ça :)
+
+-- 
+Goffi
