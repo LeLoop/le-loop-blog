@@ -22,7 +22,7 @@ ou encore <a href="http://irssi.org/">Irssi</a>.<br />
 <h1>Mailing Lists</h1>
 
 <div>
-Vous pouvez vous inscrire à la Mailing-List via <a href="http://lists.leloop.org/">l'interface dédiée</a>.
+Vous pouvez vous inscrire à la Mailing-List via <a href="http://lists.leloop.org/cgi-bin/mailman/listinfo/leloop">l'interface dédiée</a>.
 </div>
 
 <h1>Wiki</h1>
