@@ -4,13 +4,11 @@
 <h1>Physical Location</h1>
 
 <div>
-Nos nouveaux hôtes sont:<br />
+Nos nouveaux hôtes sont :<br />
 <a href="http://garexp.org">La Gare XP</a><br />
 0bis avenue Lucien Descaves<br />
 75014 Paris<br />
-<br />
-Métro: Porte d'Orléans<br />
-RER: Cité Universitaire<br />
+<a href="http://wiki.leloop.org/index.php/La_Gare_XP">Plus de détails</a>
 </div>
 
 <h1>IRC</h1>
