@@ -30,10 +30,11 @@ puis le mouvement du libre des années 90.
 </div>
 
 <div>
-Ainsi, depuis 5 ans, voit-on pousser partout dans le monde des 
+Ainsi, depuis 10 ans, voit-on pousser partout dans le monde des 
 hackerspaces, en Allemagne, aux USA, en Suède... Mais en France
-aussi. D'abord le <a href="http://www.tmplab.org">/tmp/lab</a> à
-Vitry-Sur-Seine, puis <a href="http://www.tetalab.org">à Toulouse</a>.
+aussi. D'abord avec <a href="http://print.squat.net/">pRiNT</a>, à Dijon, 
+puis plus récemment le <a href="http://www.tmplab.org">/tmp/lab</a> à
+Vitry-Sur-Seine ou le Tetalab <a href="http://www.tetalab.org">à Toulouse</a>.
 </div>
 
 <div>
@@ -57,7 +58,7 @@ et un espace adaptés aux activités du hackerspace. D'où son nom : <i>Laborato
 <div>
 Que ce soit dit clairement à tous ceux qui croient savoir sans savoir
 ce que veut dire le terme « hacker », je donnerai ici une des plus belles
-définitions du terme «hacker» :
+définitions du terme « hacker » :
 </div>
 
 <div class="citation">
