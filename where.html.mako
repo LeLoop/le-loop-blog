@@ -14,7 +14,7 @@ Nos nouveaux hôtes sont :<br />
 <h1>IRC</h1>
 
 <div>
-<a href="irc://irc.freenode.net/leloop">#leloop</a> @ irc.freenode.net
+<a href="http://wiki.leloop.org/index.php/IRC">#leloop</a> @ irc.freenode.net
 </div>
 
 <h1>Mail</h1>
@@ -24,7 +24,7 @@ contact{at}leloop.org
 </div>
 
 <div>
-Et vous pouvez rejoindre la <a href="http://lists.leloop.org">Mailing List</a>
+Et vous pouvez rejoindre la <a href="http://wiki.leloop.org/index.php/Mailing_list">Mailing List</a>
 </div>
 
 <h1>RFC1149/RFC2549/RFC6214</h1>
