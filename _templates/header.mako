@@ -2,7 +2,7 @@
     <a href="${bf.util.site_path_helper()}">Le L<span style="font-size: 130%; vertical-align: middle">&#8734;</span>p</a>
 </div><br />
 <div class="links">
-<a href="http://phack.fr/">PHack</a>: <a href="http://tmplab.org/">/tmp/lab</a>, <a href="http://electrolab.fr/">Electrolab</a>, <a href ="http://blackboxe.fr/">Blackboxe</a>. Other French labs: <a href="http://tetalab.org/">Tetalab</a>, <a href="http://logre.org/">LOG</a>, <a href="http://www.le-localhost.org/">::1</a>, <a href="http://breizh-entropy.org/">Breizh Entropy</a>. <a href="http://hackerspaces.org/">Everywhere else.</a>
+    <a href="http://wiki.leloop.org/">wiki</a> :: <a href="http://wiki.leloop.org/index.php/Mailing_list">mailing list</a> :: <a href="http://wiki.leloop.org/index.php/IRC">irc</a> :: <a href="https://twitter.com/Le_Loop">twitter</a> :: <a href="http://links.leloop.org/">links</a>
 </div>
 <div class="heisenberg">
 ##    Heisenberg : [NONE|SETTLED|MOVING IN|INSTALLED|<span style="background: white; foreground: black">HOME</span>]<br />
