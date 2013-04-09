@@ -67,7 +67,7 @@ a:hover.title {
 }
 
 #footer ul img {
-    width: 57px;
+    /* width: 57px; */
 }
 
 
@@ -169,7 +169,7 @@ a:hover.title {
 }
 
 a {
-    text-decoration:none;
+    text-decoration:underline;
     color:inherit;
 }
 a:visited {
@@ -178,7 +178,7 @@ a:visited {
 }
 a:hover {
     text-decoration:underline;
-    color:inherit;
+    color:white;
 }
 
 

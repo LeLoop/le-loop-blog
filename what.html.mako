@@ -30,26 +30,27 @@ puis le mouvement du libre des années 90.
 </div>
 
 <div>
-Ainsi, depuis 5 ans, voit-on pousser partout dans le monde des 
+Ainsi, depuis 10 ans, voit-on pousser partout dans le monde des 
 hackerspaces, en Allemagne, aux USA, en Suède... Mais en France
-aussi. D'abord le <a href="http://www.tmplab.org">/tmp/lab</a> à
-Vitry-Sur-Seine, puis <a href="http://www.tetalab.org">à Toulouse</a>.
+aussi. D'abord avec <a href="http://print.squat.net/">pRiNT</a>, à Dijon, 
+puis plus récemment le <a href="http://www.tmplab.org">/tmp/lab</a> à
+Vitry-Sur-Seine ou le Tetalab <a href="http://www.tetalab.org">à Toulouse</a>.
 </div>
 
 <div>
 Puis plus récemment pleins de petits frères comme <a href="http://lasuitelogique.org">La Suite Logique</a> 
-ou <a href="http://le-localhost.fr">le Localhost</a> qui, basé dans des squats, n'auront duré que trop peu de temps ;
+ou <a href="http://le-localhost.fr">le Localhost</a> qui, basé dans des squats, n'auront duré que trop peu de temps&nbsp;:
 Le <a href="http://www.logre.org">Log</a> à Grenoble, le <a href="http://www.breizh-entropy.org/">Breizh Entropy Lab</a>
 à Rennes, ou encore <a href="http://blackboxe.fr">le Blackboxe</a> et <a href="http://electrolab.fr">l'Electrolab</a>
-qui sont plein d'avenir.
+qui sont pleins d'avenir.
 </div>
 
 <div>
-Le LOOP est un genre de hackerspace un peu particulier, dans le sens où celui-ci ne se défini plus par rapport
+Le LOOP est un genre de hackerspace un peu particulier, dans le sens où celui-ci ne se définit plus par rapport
 à son lieu, étant lui-m&ecirc;me sans lieu fixe, mais dépendant du lieu pouvant lui offrir l'espace nécessaire
 à son fonctionnement. Ainsi, il pourra exister plusieurs mois en un lieu, puis déménager dans un autre lieu, ou
 encore rester inactif pendant un certain temps. Chaque nouveau lieu étant un challenge pour remonter une infrastructure
-et un espace adaptés aux activités du hackerspace. D'où son nom : <i>Laboratoire Ouvert... Ou Pas</i>.
+et un espace adaptés aux activités du hackerspace. D'où son nom&nbsp;: <i>Laboratoire Ouvert... Ou Pas</i>.
 </div>
 
 <h1>Hackers ?</h1>
@@ -57,7 +58,7 @@ et un espace adaptés aux activités du hackerspace. D'où son nom : <i>Laborato
 <div>
 Que ce soit dit clairement à tous ceux qui croient savoir sans savoir
 ce que veut dire le terme « hacker », je donnerai ici une des plus belles
-définitions du terme «hacker» :
+définitions du terme « hacker »&nbsp;:
 </div>
 
 <div class="citation">
