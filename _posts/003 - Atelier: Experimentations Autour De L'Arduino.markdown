@@ -1,5 +1,5 @@
 ---
-categories: info, atelier
+categories: info, atelier, arduino
 date: 2011/02/14 10:52:00
 title: Atelier d'initiation et d'experimentation autour de l'Arduino
 author: guyzmo

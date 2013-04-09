@@ -1,5 +1,5 @@
 ---
-categories: comm
+categories: cypherpunk
 date: 2012/31/10 12:50
 title: CryptoParty au Loop le 17 Novembre
 author: okhin
