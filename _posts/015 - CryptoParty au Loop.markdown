@@ -1,6 +1,6 @@
 ---
 categories: cypherpunk
-date: 2012/10/31 12:50
+date: 2012/10/31 12:50:00
 title: CryptoParty au Loop le 17 Novembre
 author: okhin
 summary: "Le Loop organise une cryptoparty le samedi 17 novembre 2012 à 16h a la Gare XP."
