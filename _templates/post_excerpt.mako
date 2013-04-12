@@ -1,7 +1,7 @@
 <%page args="post"/>
 <div class="post roundedTop">
   <div class="post_title roundedTop"><a href="${post.permapath()}" rel="bookmark" title="Permanent Link to ${post.title}">${post.title}</a></div>
-  <div class="post_extras">${post.date.strftime("%B %d, %Y at %H:%M")} | categories: 
+  <div class="post_extras">${post.date.strftime("%B %d, %Y at %H:%M")} | by ${post.author} | categories: 
 <% 
    category_links = []
    for category in post.categories:
