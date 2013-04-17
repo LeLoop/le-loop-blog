@@ -1,0 +1,16 @@
+# http://humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Papa Maman la bonne et moi
+    Other contributors (see https://github.com/LeLoop/le-loop-blog)
+
+# THANKS
+
+    Le Loop members
+
+# TECHNOLOGY COLOPHON
+
+    HTML, CSS
+    Python, Blogofile, Git, vim.
