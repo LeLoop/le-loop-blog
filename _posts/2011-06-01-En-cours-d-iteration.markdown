@@ -1,6 +1,6 @@
 ---
 categories: comm
-date: 2011/06/1 10:10:10
+date: 2011/06/01 10:10:10
 title: Fermeture du loop au chateau, l'heure d'une nouvelle iteration du loop
 author: guyzmo
 summary: "Suite à la fermeture du lieu qui nous a accueilli pour la première itération du loop, 
