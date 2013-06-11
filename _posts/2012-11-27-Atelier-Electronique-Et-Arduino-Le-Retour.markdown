@@ -18,7 +18,7 @@ l'automatisation et informatisation des trains de la gare xp.
 
 Pour ceux qui n'ont  pas  de  matériel  (arduino,  fils,  composants
 divers etc..) pensez à en prendre, notamment les «  starter  kits  »  ou
-équivalent soit sur [h:D](http://h-d.cc) soit sur [hackspark](hackspark) (ou  vous
+équivalent soit sur [h:D](http://h-d.cc/) soit sur [hackspark](http://hackspark.fr/) (ou  vous
 pouvez en acheter chez selectronic, mais c'est plus  cher).  Essayez  de
 venir avec vos idées, vos envies, que pour la première séance, on  fasse
 un tour des projets et envisager le chemin à parcourir.
