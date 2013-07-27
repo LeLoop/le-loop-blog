@@ -1,9 +1,9 @@
 ---
-categories: hackaton
+categories: hackathon
 date: 2013/02/15 12:00:00
-title: Hackaton Salut A Toi
+title: Hackathon Salut A Toi
 author: goffi
-summary: "Un hackaton pour contribuer au projet Salut A Toi."
+summary: "Un hackathon pour contribuer au projet Salut A Toi."
 ---
 Bonjour à tous,
 
