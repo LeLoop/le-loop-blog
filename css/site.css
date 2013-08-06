@@ -48,7 +48,7 @@ a:hover.title {
 .content {
     min-height: 100%;
     height: auto !important;
-    margin: 0 auto -109px;
+    margin: 0 auto -120px;
     overflow: auto;
 }
 
