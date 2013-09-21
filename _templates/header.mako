@@ -13,5 +13,5 @@
 </div>
 
 <div class="static">
-<a href="/what.html">What?</a> <a href="/when.html">When?</a> <a href="/where.html">Where?</a> <a href="/how.html">How?</a> <a href="http://wiki.leloop.org/">Wiki!</a>
+    <a href="${bf.util.site_path_helper(bf.config.blog.path,'/what.html')}">What?</a> <a href="${bf.util.site_path_helper(bf.config.blog.path,'/when.html')}">When?</a> <a href="${bf.util.site_path_helper(bf.config.blog.path,'/where.html')}">Where?</a> <a href="${bf.util.site_path_helper(bf.config.blog.path,'/how.html')}">How?</a> <a href="http://wiki.leloop.org/">Wiki!</a>
 </div>
