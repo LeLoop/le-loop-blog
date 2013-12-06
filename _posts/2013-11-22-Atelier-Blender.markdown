@@ -6,8 +6,8 @@ author: tom
 summary: "Un atelier Blender orienté pour les débutants."
 ---
 
-Ce **dimanche 24 novembre**, à partir de **14h**, je vous propose un atelier
-Blender 3D, pour les débutants.
+Ce <s>dimanche 24 novembre</s> **dimanche 8 décembre**, à partir de **14h**,
+je vous propose un atelier Blender 3D, pour les débutants.
 
 L'objectif de cet atelier est de pratiquer en groupe sur Blender 3D, parce
 que commencer Blender tout seul c'est particulièrement rébarbatif.
