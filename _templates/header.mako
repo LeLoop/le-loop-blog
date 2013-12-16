@@ -2,7 +2,7 @@
     <a href="${bf.util.site_path_helper()}">Le L<span style="font-size: 130%; vertical-align: middle">&#8734;</span>p</a>
 </div><br />
 <div class="links">
-    <a href="http://wiki.leloop.org/">wiki</a> :: <a href="http://wiki.leloop.org/index.php/Mailing_list">mailing list</a> :: <a href="http://wiki.leloop.org/index.php/IRC">irc</a> :: <a href="https://twitter.com/Le_Loop">twitter</a> :: <a href="http://links.leloop.org/">links</a>
+    <a href="https://wiki.leloop.org/">wiki</a> :: <a href="https://wiki.leloop.org/index.php/Mailing_list">mailing list</a> :: <a href="https://wiki.leloop.org/index.php/IRC">irc</a> :: <a href="https://twitter.com/Le_Loop">twitter</a> :: <a href="https://links.leloop.org/">links</a>
 </div>
 <div class="heisenberg">
 ##    Heisenberg : [NONE|SETTLED|MOVING IN|INSTALLED|<span style="background: white; foreground: black">HOME</span>]<br />
@@ -13,5 +13,5 @@
 </div>
 
 <div class="static">
-    <a href="${bf.util.site_path_helper(bf.config.blog.path,'/what.html')}">What?</a> <a href="${bf.util.site_path_helper(bf.config.blog.path,'/when.html')}">When?</a> <a href="${bf.util.site_path_helper(bf.config.blog.path,'/where.html')}">Where?</a> <a href="${bf.util.site_path_helper(bf.config.blog.path,'/how.html')}">How?</a> <a href="http://wiki.leloop.org/">Wiki!</a>
+    <a href="${bf.util.site_path_helper(bf.config.blog.path,'/what.html')}">What?</a> <a href="${bf.util.site_path_helper(bf.config.blog.path,'/when.html')}">When?</a> <a href="${bf.util.site_path_helper(bf.config.blog.path,'/where.html')}">Where?</a> <a href="${bf.util.site_path_helper(bf.config.blog.path,'/how.html')}">How?</a> <a href="https://wiki.leloop.org/">Wiki!</a>
 </div>
