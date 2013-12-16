@@ -17,11 +17,11 @@ de CACert.
 
 Vous pouvez en vérifier l'empreinte SHA1 :
 
-`04:43:71:5E:54:7B:DA:30:4E:D3:EC:66:51:4F:93:6B`
+`60:B8:D3:6A:1D:9F:6A:43:2B:14:D8:74:28:05:1A:01:74:42:6B:A9`
 
 Ou bien, si vous êtes coincés au siècle dernier, l'empreinte MD5 :
 
-`60:B8:D3:6A:1D:9F:6A:43:2B:14:D8:74:28:05:1A:01:74:42:6B:A9`
+`04:43:71:5E:54:7B:DA:30:4E:D3:EC:66:51:4F:93:6B`
 
 Le certificat complet :
 
