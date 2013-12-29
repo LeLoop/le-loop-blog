@@ -105,6 +105,10 @@ a:hover.title {
     padding:5px;
 }
 
+.post_hidden{
+    display: none;
+}
+
 .post_prose {
     text-align: justify;
     background: rgba(255, 255, 255, 0.5);

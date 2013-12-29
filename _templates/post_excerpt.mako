@@ -14,7 +14,8 @@
 ${", ".join(category_links)}
 </div>
   <div class="post_excerpt">
-    ${post.summary} <i><a href="${post.permapath()}">Read more...</a></i>
+    <div class="post_shown post_sum">${post.summary} <i><a href="${post.permapath()}" class="post_more">Read more...</a></i></div>
+    <div class="post_hidden post_all"><i><a href="javascript:void(0);" class="post_hide">Hide</a></i> <br />${post.content}</div>
   </div>
 </div>
 
