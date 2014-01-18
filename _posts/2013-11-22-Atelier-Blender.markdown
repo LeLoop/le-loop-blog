@@ -1,6 +1,6 @@
 ---
 categories: atelier
-date: 2013/11/22 12:34:56
+date: 2013/11/22 12:34:57
 title: Atelier Blender
 author: tom
 summary: "Un atelier Blender orienté pour les débutants."
