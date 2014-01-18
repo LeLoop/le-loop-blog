@@ -111,7 +111,14 @@ body {
     padding:5px;
 }
 
-.post_hidden{
+.post_more, .post_hide {
+    font-size: 0.7em;
+    font-style: italic;
+    color: #333333;
+    text-decoration: none;
+}
+
+.post_hidden {
     display: none;
 }
 
