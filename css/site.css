@@ -17,13 +17,16 @@ body {
     top: 0px;
     left: 0px;
 }
+.links a {
+    text-decoration: none;
+}
 
 .title {
     text-align: center;
     margin-top: 40px;
     font-size: 350%;
 }
-a:hover.title {
+.title a, .title a:hover {
     text-decoration:none;
 }
 
@@ -83,6 +86,9 @@ a:hover.title {
     background: rgba(0, 0, 0, 0.5);
     color: white;
     padding:2px;
+}
+.post_title a {
+    text-decoration: none;
 }
 
 .post_extras {
