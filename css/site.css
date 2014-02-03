@@ -42,6 +42,22 @@ body {
     text-align: center;
     font-size: 50%;
 }
+.heisenberg .white {
+    background-color:   white;
+    color:              black;
+}
+.heisenberg .green {
+    background-color:   green;
+}
+.heisenberg .blue {
+    background-color:   blue;
+}
+.heisenberg .orange {
+    background-color:   orange;
+}
+.heisenberg .red {
+    background-color:   red;
+}
 
 .entrypaging {
     font-size: 75%;
