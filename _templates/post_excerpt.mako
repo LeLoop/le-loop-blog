@@ -14,8 +14,8 @@
 ${", ".join(category_links)}
 </div>
   <div class="post_excerpt">
-    <div class="post_shown post_sum">${post.summary} <a href="${post.permapath()}" class="post_more">&#10132 Afficher</a></div>
-    <div class="post_hidden post_all"><i><a href="javascript:void(0);" class="post_hide">&#10006 Replier</a></i> <br />${post.content}</div>
+    <div class="post_shown post_sum">${post.summary} <a href="${post.permapath()}" class="post_more">&#10132; Afficher</a></div>
+    <div class="post_hidden post_all"><i><a href="javascript:void(0);" class="post_hide">&#10006; Replier</a></i> <br />${post.content}</div>
   </div>
 </div>
 
