@@ -1,5 +1,5 @@
 <div class="title">
-    <a href="${bf.util.site_path_helper()}">Le L<span style="font-size: 130%; vertical-align: middle">&#8734;</span>p</a>
+    <a href="${bf.util.site_path_helper()}">Le L<span class="infinite">&#8734;</span>p</a>
 </div><br />
 <div class="links">
     <a href="https://wiki.leloop.org/">wiki</a> :: <a href="https://wiki.leloop.org/index.php/Mailing_list">mailing list</a> :: <a href="https://wiki.leloop.org/index.php/IRC">irc</a> :: <a href="https://twitter.com/Le_Loop">twitter</a> :: <a href="https://links.leloop.org/">links</a> :: <a href="https://git.leloop.org">git</a> :: <a href="https://paste.leloop.org">paste</a> :: <a href="http://cal.leloop.org/public/">calendrier</a>

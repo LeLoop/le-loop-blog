@@ -29,6 +29,10 @@ body {
 .title a, .title a:hover {
     text-decoration:none;
 }
+.title .infinite {
+    font-size: 130%;
+    vertical-align: middle;
+}
 
 .static {
     position: relative;
