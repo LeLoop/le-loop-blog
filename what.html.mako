@@ -42,7 +42,7 @@ Vitry-Sur-Seine ou le Tetalab <a href="http://www.tetalab.org">à Toulouse</a>.
 Puis plus récemment pleins de petits frères comme <a href="http://lasuitelogique.org">La Suite Logique</a> 
 ou <a href="http://le-localhost.fr">le Localhost</a> qui, basé dans des squats, n'auront duré que trop peu de temps&nbsp;:
 Le <a href="http://www.logre.org">Log</a> à Grenoble, le <a href="http://www.breizh-entropy.org/">Breizh Entropy Lab</a>
-à Rennes, ou encore <a href="http://blackboxe.fr">le Blackboxe</a> et <a href="http://electrolab.fr">l'Electrolab</a>
+à Rennes, ou encore <a href="http://blackboxe.org/">la Blackboxe</a> et <a href="http://electrolab.fr">l'Electrolab</a>
 qui sont pleins d'avenir.
 </div>
 
