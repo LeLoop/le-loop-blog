@@ -1,6 +1,7 @@
 <%inherit file="_templates/site.mako" />
 
 <div class="prose rounded">
+<img src="${bf.util.site_path_helper(bf.config.blog.path,'/img/content-rated-b-bullshit.jpg')}" class="align-right" height='150px' width='150px' alt='Bullshit-o-meter' title='Bullshit-o-meter' />
 <div>
 Après l'expérience du hackerspace <a href="http://lasuitelogique.org">La Suite Logique</a> qui s'est arreté avec
 la fermeture du <a href="http://www.lesgrooms.org/">squat</a> qui l'accueillait en juin 2010, cette expérience du 
@@ -91,7 +92,7 @@ de grosses conférences...
 <h1>Buzzwords</h1>
 
 <div>
-co-création, synergie, production, apolitique et technologique.
+co-création, synergie, production, <del>apolitique</del> et technologique.
 </div>
 
 </div>
