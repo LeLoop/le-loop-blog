@@ -254,4 +254,12 @@ a:hover {
 
 /*font-weight: bold;*/
 
-
+.align-right {
+    float: right;
+}
+.align-left {
+    float: left;
+}
+img.align-right {
+    margin: 10px;
+}
