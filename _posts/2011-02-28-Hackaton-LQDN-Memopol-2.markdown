@@ -26,7 +26,7 @@ d'un switch et d'une machine à café et de travailler à quarante main
 sur une meme application.
 
 Résultat, le projet du memopol version 2 a été le 3ème projet le plus actif de
-[Gitorious](gitorious.org/memopol2-0) le temps d'un week end, juste derrière FreeBSD et Meego.
+[Gitorious](https://gitorious.org/memopol2-0) le temps d'un week end, juste derrière FreeBSD et Meego.
 
 Le Loop est heureux d'avoir pu accueillir un tel évènement et espère
 que nous aurons l'occasion d'accueillir de nombreux autres hackathons !
