@@ -6,8 +6,8 @@
 <div>
 Nos nouveaux hôtes sont :<br />
 <a href="http://garexp.org">La Gare XP</a><br />
-0bis avenue Lucien Descaves<br />
-75014 Paris<br />
+Rue de Reuilly<br />
+75012 Paris<br />
 <a href="http://wiki.leloop.org/index.php/La_Gare_XP">Plus de détails</a>
 </div>
 
