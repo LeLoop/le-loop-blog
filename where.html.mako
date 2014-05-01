@@ -4,11 +4,9 @@
 <h1>Physical Location</h1>
 
 <div>
-Nos nouveaux hôtes sont :<br />
-<a href="http://garexp.org">La Gare XP</a><br />
-Rue de Reuilly<br />
+20 rue de Reuilly<br />
 75012 Paris<br />
-<a href="http://wiki.leloop.org/index.php/La_Gare_XP">Plus de détails</a>
+<a href="http://wiki.leloop.org/index.php/Accès">Plus de détails</a>
 </div>
 
 <h1>IRC</h1>
