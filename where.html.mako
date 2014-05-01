@@ -6,13 +6,13 @@
 <div>
 20 rue de Reuilly<br />
 75012 Paris<br />
-<a href="http://wiki.leloop.org/index.php/Accès">Plus de détails</a>
+<a href="https://wiki.leloop.org/index.php/Accès">Plus de détails</a>
 </div>
 
 <h1>IRC</h1>
 
 <div>
-<a href="http://wiki.leloop.org/index.php/IRC">#leloop</a> @ irc.freenode.net
+<a href="https://wiki.leloop.org/index.php/IRC">#leloop</a> @ irc.freenode.net
 </div>
 
 <h1>Mail</h1>
@@ -22,7 +22,7 @@ contact{at}leloop.org
 </div>
 
 <div>
-Et vous pouvez rejoindre la <a href="http://wiki.leloop.org/index.php/Mailing_list">Mailing List</a>
+Et vous pouvez rejoindre la <a href="https://wiki.leloop.org/index.php/Mailing_list">Mailing List</a>
 </div>
 
 <h1>RFC1149/RFC2549/RFC6214</h1>

@@ -3,8 +3,8 @@
 <div class="prose rounded">
 <img src="${bf.util.site_path_helper(bf.config.blog.path,'/img/content-rated-b-bullshit.jpg')}" class="align-right" height='150px' width='150px' alt='Bullshit-o-meter' title='Bullshit-o-meter' />
 <div>
-Après l'expérience du hackerspace <a href="http://lasuitelogique.org">La Suite Logique</a> qui s'est arreté avec
-la fermeture du <a href="http://www.lesgrooms.org/">squat</a> qui l'accueillait en juin 2010, cette expérience du 
+Après l'expérience du hackerspace La Suite Logique qui s'est arreté avec
+la fermeture du <a href="http://lesgrooms.intersquat.org/">squat</a> qui l'accueillait en juin 2010, cette expérience du 
 travail et de la collaboration entre hackers, artistes et squatteurs n'est pas tombée aux oubliettes. Au contraire,
 six mois plus tard, voici un nouveau lieu à une nouvelle adresse et une nouvelle structure, pour que l'expérience
 continue.
@@ -19,7 +19,7 @@ The only difference is knowledge about the technology."</i>
 <h1>Hackerspace, Laboratoire Ouvert ?</h1>
 
 <div>
-Les <a href="http://hackerspaces.org">hackerspaces</a>, aussi appelés 
+Les <a href="https://hackerspaces.org">hackerspaces</a>, aussi appelés 
 hacklabs ou Laboratoires Ouverts, sont des lieux autogérés où les gens 
 qui y participent peuvent travailler sur leurs projets.
 </div>
@@ -33,15 +33,15 @@ puis le mouvement du libre des années 90.
 <div>
 Ainsi, depuis 10 ans, voit-on pousser partout dans le monde des 
 hackerspaces, en Allemagne, aux USA, en Suède... Mais en France
-aussi. D'abord avec <a href="http://print.squat.net/">pRiNT</a>, à Dijon, 
+aussi. D'abord avec <a href="https://print.squat.net/">pRiNT</a>, à Dijon, 
 puis plus récemment le <a href="http://www.tmplab.org">/tmp/lab</a> à
 Vitry-Sur-Seine ou le Tetalab <a href="http://www.tetalab.org">à Toulouse</a>.
 </div>
 
 <div>
-Puis plus récemment pleins de petits frères comme <a href="http://lasuitelogique.org">La Suite Logique</a> 
-ou <a href="http://le-localhost.fr">le Localhost</a> qui, basé dans des squats, n'auront duré que trop peu de temps&nbsp;:
-Le <a href="http://www.logre.org">Log</a> à Grenoble, le <a href="http://www.breizh-entropy.org/">Breizh Entropy Lab</a>
+Puis plus récemment pleins de petits frères comme La Suite Logique</a> 
+ou le Localhost qui, basé dans des squats, n'auront duré que trop peu de temps&nbsp;:
+Le <a href="https://www.logre.org">Log</a> à Grenoble, le <a href="https://www.breizh-entropy.org/">Breizh Entropy Lab</a>
 à Rennes, ou encore <a href="http://blackboxe.org/">la Blackboxe</a> et <a href="http://electrolab.fr">l'Electrolab</a>
 qui sont pleins d'avenir.
 </div>
