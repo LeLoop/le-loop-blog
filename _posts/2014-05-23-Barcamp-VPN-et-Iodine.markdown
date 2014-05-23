@@ -6,7 +6,7 @@ author: edelwin
 summary: "Un barcamp VPN et Iodine."
 ---
 
-Ce samedi 24 Mai, de 14h à 19h se déroulera à la Blackloop un barcamp portant sur la mise en place de techniques de VPN (OpenVPN et IPSEC), ainsi que dans la
+Ce samedi 24 Mai, de 14h à 19h se déroulera au Loop un barcamp portant sur la mise en place de techniques de VPN (OpenVPN et IPSEC), ainsi que dans la
 mise en place d'un serveur Iodine, qui permet l'accès à Internet au travers de requêtes DNS. Le but de ce BarCamp est de profiter du phénomène d'émulation
 collective, histoire de pouvoir apporter aide et soutien à notre prochain-e.
 Pas de maître de conférence, pas de gourou à poils drus, pas de déesse du TCP/IP. Juste nous, notre cerveau et nos serveurs à déployer.
