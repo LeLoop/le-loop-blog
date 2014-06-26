@@ -35,15 +35,18 @@ body {
     text-decoration: none;
 }
 
-.title {
+header h1 {
     text-align: center;
-    margin-top: 40px;
+    margin-top: 35px;
+    margin-bottom: 10px;
     font-size: 350%;
+    font-weight: lighter;
 }
-.title a, .title a:hover {
+header h1 a,
+header h1 a:hover {
     text-decoration:none;
 }
-.title .infinite {
+header h1 .infinite {
     font-size: 130%;
     vertical-align: middle;
 }
@@ -82,7 +85,7 @@ body {
     top: 15px;
 }
 
-.content {
+#content {
     min-height: 100%;
     height: auto !important;
     margin: 0 auto;
@@ -138,10 +141,11 @@ footer img {
     font-family: none;
     color: black;
     border-spacing: 10px;
-    padding:5px;
+    padding: 5px 8px;
 }
 
-.post_more, .post_hide {
+.post_more,
+.post_hide {
     font-size: 0.7em;
     font-style: italic;
     color: #333333;
@@ -244,24 +248,12 @@ a:hover {
 }
 
 .roundedTop {
-    -webkit-border-bottom-left-radius:0px;
-    -webkit-border-bottom-right-radius:0px;
-    -webkit-border-top-left-radius:5px;
-    -webkit-border-top-right-radius:5px;
     border-radius:5px 5px 0px 0px;
-    -moz-border-radius:5px 5px 0px 0px; 
 }
 
 .roundedLow {
-    -webkit-border-bottom-left-radius:5px;
-    -webkit-border-bottom-right-radius:5px;
-    -webkit-border-top-left-radius:0px;
-    -webkit-border-top-right-radius:0px;
     border-radius:0px 0px 5px 5px;
-    -moz-border-radius:0px 0px 5px 5px; 
 }
-
-/*font-weight: bold;*/
 
 .align-right {
     float: right;
