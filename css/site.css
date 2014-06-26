@@ -118,7 +118,7 @@ footer img {
     text-align: left;
     background: rgba(0, 0, 0, 0.5);
     color: white;
-    padding:2px;
+    padding: 2px 8px;
 }
 .post_title a {
     text-decoration: none;
@@ -132,7 +132,7 @@ footer img {
     vertical-align: center;
     margin-top: 0px;
     margin-bottom: 0px;
-    padding:2px;
+    padding: 2px 8px;
 }
 
 .post_excerpt {
@@ -162,7 +162,7 @@ footer img {
     font-family: none;
     color: black;
     border-spacing: 10px;
-    padding:5px;
+    padding: 5px 8px;
 }
 
 
