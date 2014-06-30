@@ -37,4 +37,6 @@ of privacy
 -- <br>
 Abhay Agarwal
 
+[» View the slides](http://www.slideshare.net/AbhayAgarwal7/you-online-identity-networks-and-the-self)
+
 ![You, online, identity, networks, and the self](/img/posts/20140628-you-online-identity-networks-and-the-self.jpg)
