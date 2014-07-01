@@ -3,6 +3,8 @@
   <%include file="post_excerpt.mako" args="post=post" />
 % endfor
 
+<nav class="pagination">
+
 % if prev_link:
  <a href="${prev_link}" class="entrypaging">« Previous Page</a>
 % endif
@@ -12,3 +14,4 @@
 % if next_link:
  <a href="${next_link}" class="entrypaging">Next Page »</a>
 % endif
+</nav>
