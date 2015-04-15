@@ -1,7 +1,7 @@
 ---
 categories: cypherpunk, atelier
 date: 2015/04/15 12:34:56
-title: Cryptoparty et vie privée
+title: Cryptoparty et vie privee
 author: tom
 summary: "Une cryptopartie à l'attention de nos amis les squatteurs."
 ---
