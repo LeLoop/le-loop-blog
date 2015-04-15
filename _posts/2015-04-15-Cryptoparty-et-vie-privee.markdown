@@ -33,8 +33,8 @@ connaissances, de l’échange et des ateliers pratiques.
 Parmi les sujets abordés :
 
 * [Chiffrement de mail](https://wiki.leloop.org/index.php/Pourquoi_et_comment_prot%C3%A9ger_ses_emails) :
-  confidentialité des mails et + si aff.  Utilisation de Tor : tu vois pas où
-  je surfe.
+  confidentialité des mails et + si aff.
+* Utilisation de Tor : tu vois pas où je surfe.
 * Utilisation de Tails : tu sais même plus qui je suis où je suis ce que je
   fais, haha, c’est qui l’patron.
 * Réseau local : comment sécuriser le réseau d’un lieu d’ouverture.
