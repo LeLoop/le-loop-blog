@@ -1,7 +1,7 @@
 ---
 categories: info, squat, poop
 date: 2015/08/06 13:37:00
-title: P∞p
+title: Poop
 author: Herdir
 summary: "La troisième édition du P∞p (oui, on sait)"
 ---
