@@ -4,9 +4,7 @@
 <h1>Physical Location</h1>
 
 <div>
-20 rue de Reuilly<br />
-75012 Paris<br />
-<a href="https://wiki.leloop.org/index.php/Accès">Plus de détails</a>
+Nulle part, le Loop est actuellement fermé.
 </div>
 
 <h1>IRC</h1>

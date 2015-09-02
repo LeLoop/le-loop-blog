@@ -17,9 +17,9 @@
 	<div class="heisenberg">
 	##    Heisenberg : [NONE|SETTLED|MOVING IN|INSTALLED|<span class="white">HOME</span>]<br />
 	##    Heisenberg : [NONE|SETTLED|MOVING IN|<span class="green">INSTALLED</span>|HOME]<br />
-	    Heisenberg : [NONE|SETTLED|<span class="blue">MOVING IN</span>|INSTALLED|HOME]<br />
+	##    Heisenberg : [NONE|SETTLED|<span class="blue">MOVING IN</span>|INSTALLED|HOME]<br />
 	##    Heisenberg : [NONE|<span class="orange">SETTLED</span>|MOVING IN|INSTALLED|HOME]<br />
-	##    Heisenberg : [<span class="red">NONE</span>|SETTLED|MOVING IN|INSTALLED|HOME]<br />
+	    Heisenberg : [<span class="red">NONE</span>|SETTLED|MOVING IN|INSTALLED|HOME]<br />
 	</div>
 
 	<div class="static">
