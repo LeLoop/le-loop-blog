@@ -32,28 +32,6 @@ Pour participer aux workshops, aux évènements, aux projets et participer à la
 un <a href="https://wiki.leloop.org">wiki</a> a été ouvert à cet effet.
 </div>
 
-<h1>Trac</h1>
-
-<div>
-le Trac est un système de wiki, de gestion de ticket et de gestion de ressources très pratiques pour l'organisation
-interne au lieu. Toutefois, certaines informations étant confidentielles (notamment les contacts des membres), nous
-forçons un accès restreint à ceux qui font une demande d'accès sur place.
-</div>
-
-<div>
-Pour demander l'accès il faut exécuter la commande :
-</div>
-
-<pre>
-  \% htpasswd -n $nickname
-</pre>
-
-<div>
-où $nickname est votre pseudonyme d'accès, y entrer un mot de passe, puis envoyer le resultat de la commande à
-contact{at}leloop.org. Une fois que vous avez un accès au trac, merci de donner des moyens de vous contacter
-dans le WhosWho du wiki. Votre accès sera configuré après rencontre au hackerspace.
-</div>
-
 </div>
 
 
