@@ -5,9 +5,9 @@
 
 <div>
 On peut commencer par s'inscrire sur la mailing list, venir sur IRC pour échanger. Mais surtout
-il faut venir sur place, s'approprier l'espace et y participer. Ensuite, on pourra utiliser le
+<s>il faut venir sur place, s'approprier l'espace et y participer. Ensuite, on pourra utiliser le
 trac comme outil collaboratif de base, puis le git pour y stocker les développements et autres
-ressources potentiellement utiles au lieu.
+ressources potentiellement utiles au lieu.</s>
 </div>
 
 <h1>IRC</h1>
